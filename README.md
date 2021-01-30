@@ -23,6 +23,8 @@ For example, `{[()]}`, `((1 + 2) * 3) / 24` are correct, but `}{hello}`, `{()]}`
 ## Tests
 You can run Unit tests located in the directory: `src/test/java/ru/marchenko/brackets/validator`.
 
+For example, you can use [Intellij IDEA](https://www.jetbrains.com/ru-ru/idea/download/#section=windows).
+
 ## Maintainer
 Vladislav Marchenko
 
