@@ -2,7 +2,7 @@
 [![Language](http://img.shields.io/badge/language-java-brightgreen.svg)](https://www.java.com/)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/samtools/PolinaBevad/bio_relatives)
 
-Test task. Program that validate brackets in input sequence.
+Test task. A program that validates brackets in the input sequence.
 
 ## Table of Contents
 -   [Used technologies](#used-technologies)
